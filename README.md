@@ -6,3 +6,7 @@ It was found that an injector model with swirl geometry produced 3 times lower N
 The injector design employing the swirl model is more promisable, since further design optimization can improve the pressure loss.
 Full Simulation Files and CAD Models : https://drive.google.com/drive/folders/19MHz_jBYOWQeZuW2o9MU_RaiL4ntt_dZ?usp=sharing
 The project was done by Sri vyas (srivr62@gmail.com) (+1 (263)266-2639).
+## Results
+
+![Pressure Distribution](Results/pressure_graph.png)
+![Velocity Contour](Results/velocity_contour.png)
