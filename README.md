@@ -8,4 +8,4 @@ Full Simulation Files and CAD Models : https://drive.google.com/drive/folders/19
 The project was done by Sri vyas (srivr62@gmail.com) (+1 (263)266-2639).
 ## Results
 
-
+![Temperature](Results/placeholder.md/Static_Temperature.png)
