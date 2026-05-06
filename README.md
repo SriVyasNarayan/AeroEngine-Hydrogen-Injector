@@ -8,5 +8,5 @@ Full Simulation Files and CAD Models : https://drive.google.com/drive/folders/19
 The project was done by Sri vyas (srivr62@gmail.com) (+1 (263)266-2639).
 ## Results
 
-![Pressure Distribution](Results/pressure_graph.png)
+![Pressure Distribution](Results/Heat_of_reactions.png)
 ![Velocity Contour](Results/velocity_contour.png)
